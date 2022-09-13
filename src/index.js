@@ -167,7 +167,7 @@ function startup() {
   drawGrid(game);
 
   registerKeyboardEvents();
-  console.log(state.secret);
+ // console.log(state.secret);
 }
 
 startup();
